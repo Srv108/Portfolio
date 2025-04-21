@@ -1,0 +1,94 @@
+/* LeetCodeBadges.css */
+
+.badges-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .project-heading {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    width: 100%;
+    text-align: center;
+    color: #333;
+  }
+  
+  .project-heading .purple {
+    color: #6c63ff; /* Example color for emphasis */
+  }
+  
+  .badge-card {
+    height: 200px;
+    width: 200px;
+    border: none;
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #f8f9fa; /* Light background for cards */
+    margin-bottom: 20px;
+  }
+  
+  .badge-card:hover {
+    transform: scale(1.04);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .image-cropper {
+    width: 100%;
+    height: 300px; /* Adjust based on your image height */
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .image-cropper img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    /* Optionally, you can position the image to ensure top is visible */
+    /* object-position: top; */
+  }
+  
+  .badge-title {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .badge-date {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 992px) {
+    .image-cropper {
+      height: 140px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .image-cropper {
+      height: 130px;
+    }
+  
+    .project-heading {
+      font-size: 2rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .image-cropper {
+      height: 120px;
+    }
+  
+    .project-heading {
+      font-size: 1.8rem;
+    }
+  
+    .badge-title {
+      font-size: 1rem;
+    }
+  
+    .badge-date {
+      font-size: 0.8rem;
+    }
+  }

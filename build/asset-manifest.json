@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.df308468.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/burger.png": "/static/media/burger.0502716ad5192e75d94d.png",
+    "static/media/article.png": "/static/media/article.9c86cd7138a398c45fa5.png",
+    "static/media/sorting.png": "/static/media/sorting.6b3d9fcdc42caca20bc3.png",
+    "static/media/vipul-beniwal.pdf": "/static/media/vipul-beniwal.8b6bbff31714176df330.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/queen.png": "/static/media/queen.c85a68057610c7789da0.png",
+    "static/media/logo.png": "/static/media/logo.4617b3fc006554f58a2a.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.df308468.js.map": "/static/js/main.df308468.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.df308468.js"
+  ]
+}
