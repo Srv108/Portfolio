@@ -1,0 +1,31 @@
+.certificate-section {
+    position: relative !important;
+    padding-top: 120px !important;
+    padding-bottom: 20px !important;
+    background-image: var(--section-background-color) !important;
+    color: white !important;
+    min-height: 95vh;
+  }
+  
+  .certificate-content {
+    padding: 6rem 0 2rem !important;
+    color: whitesmoke;
+  }
+  
+  .certificate-section .heading-name {
+    font-size: 2.5em !important;
+    padding-bottom: 20px !important;
+  }
+  
+  .certificate-section .main-name {
+    color: var(--imp-text-color);
+  }
+  
+  @media (max-width: 767px) {
+    .certificate-section {
+      padding-top: 70px !important;
+    }
+    .certificate-content {
+      padding: 6rem 0 2rem !important;
+    }
+  } 
