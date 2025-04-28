@@ -26,8 +26,8 @@ function Projects() {
               isBlog={false}
               title="Crypto-Tracker"
               description="A lightweight web application that tracks the real-time market capitalization of various cryptocurrencies. The app fetches live data from an API and displays key information such as coin name, symbol, current price, and market cap. Designed with a user-friendly interface, it allows users to quickly get an overview of the crypto market trends"
-              ghLink="https://github.com/vipulbeniwal01/BURGER-HOUSE-WEBSITE"
-              demoLink="https://vipulbeniwal01.github.io/BURGER-HOUSE-WEBSITE/"
+              ghLink="https://github.com/Srv108/Crypto-Project-Tracker"
+              demoLink="https://crypto-project-coin-gecko-tijg.vercel.app/"
             />
           </Col>
 
